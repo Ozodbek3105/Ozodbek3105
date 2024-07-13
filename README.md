@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ozodbek3105
+- 👋 Hi, I’m Ozodbek
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, Django framework and PostgreSQL
 - 💞️ I’m looking to collaborate on Back-end

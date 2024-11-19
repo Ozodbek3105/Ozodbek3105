@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ozodbek12527" target="blank"><img src="https://img.shields.io/twitter/follow/ozodbek12527?logo=twitter&style=for-the-badge" alt="ozodbek12527" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ozodbek3105.github.io/Shahsiy_sahifa/](https://ozodbek3105.github.io/Shahsiy_sahifa/)
 
-- 📝 I regularly write articles on [https://t.me/coder_ozod](https://t.me/coder_ozod)
+- 📝 I regularly write articles on [https://t.me/coder_ozod](https://t.me/OzodPy)
 
 - 📫 How to reach me **xudoyberdiyevozodbek04@gmail.com**
 

@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/ozodbek12527" target="blank"><img src="https://img.shields.io/twitter/follow/ozodbek12527?logo=twitter&style=for-the-badge" alt="ozodbek12527" /></a> </p>
 
 
-- 📝 I regularly write articles on [https://t.me/OzodPy](https://t.me/OzodPy)
+- 📝 My Telegram channel [https://t.me/OzodPy](https://t.me/OzodPy)
 
 - 📫 How to reach me **xudoyberdiyevozodbek04@gmail.com**
 

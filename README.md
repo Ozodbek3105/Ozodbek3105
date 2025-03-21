@@ -2,7 +2,7 @@
 <h3 align="center">Python Back-end developer and student</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozodbek3105" alt="ozodbek3105" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ozodbek12527" target="blank"><img src="https://img.shields.io/twitter/follow/ozodbek12527?logo=twitter&style=for-the-badge" alt="ozodbek12527" /></a> </p>
 

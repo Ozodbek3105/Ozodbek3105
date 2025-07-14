@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ozodbek12527" target="blank"><img src="https://img.shields.io/twitter/follow/ozodbek12527?logo=twitter&style=for-the-badge" alt="ozodbek12527" /></a> </p>
+<p align="left"> <a href="https://twitter.com/OzodPy" target="blank"><img src="https://img.shields.io/twitter/follow/ozodbek12527?logo=twitter&style=for-the-badge" alt="ozodbek12527" /></a> </p>
 
 
 - 📝 My Telegram channel [https://t.me/OzodPy](https://t.me/OzodPy)

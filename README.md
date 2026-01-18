@@ -4,10 +4,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/OzodPy" target="blank"><img src="https://img.shields.io/twitter/follow/OzodPy?logo=twitter&style=for-the-badge" alt="OzodPy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/OzodPy" target="blank"><img src="https://img.shields.io/twitter/follow/Ozodswe?logo=twitter&style=for-the-badge" alt="Ozodswe" /></a> </p>
 
-
-- 📝 My Telegram channel [https://t.me/OzodPy](https://t.me/OzodPy)
 
 - 📫 How to reach me **xudoyberdiyevozodbek04@gmail.com**
 
